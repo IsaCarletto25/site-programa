@@ -5,7 +5,7 @@
 
 .cabecalho {
     background-color:#231230;
-    color: 231230;
+    color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -36,7 +36,7 @@
 }
 
 .serie-div-conteudo{ 
-    width: 68%;
+    width: 40%;
 }
 .serie-titulo{ 
     padding: 24px 0;
