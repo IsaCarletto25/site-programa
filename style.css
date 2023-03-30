@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    font-family: 'Imperial Script', cursiva;
+}
+
 .cabecalho {
     background-color:#231230;
     color: white;
