@@ -4,20 +4,40 @@
 }
 
 .cabecalho {
-    background-color: #424E61;
-    color: white;
+    background-color:#231230;
+    color: 231230;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
 }
 
-. cabecalho-imagem {
-    largura :  20 % ;
+.cabecalho-imagem {
+    width:  40%;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
-    font-size: 24px;
+    font-size: 20px;
+}
+
+.serie-imagem{
+    width: 28%;
+}
+
+.serie{
+    background-image: linear-gradient(#231230,#5E49DF);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.serie-div-conteudo{ 
+    width: 68%;
+}
+.serie-titulo{ 
+    padding: 24px 0;
 }
