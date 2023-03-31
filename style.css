@@ -31,7 +31,7 @@ body{
 }
 
 .serie{
-    background-image: linear-gradient(#231230,#5E49DF);
+    background-image: linear-gradient(#231230,#652D87,#5E49DF);
     color:white;
     display: flex;
     justify-content: center;
@@ -42,6 +42,15 @@ body{
 .serie-div-conteudo{ 
     width: 50%;
 }
+
 .serie-titulo{ 
     padding: 24px 0;
 }
+
+.estudante-imagem{ 
+    width: 120px;
+}
+
+.estudante-div{
+    text-align: center;
+    padding: 16px 0;}
